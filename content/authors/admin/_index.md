@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Julia M. Boulanger
 
 # Username (this should match the folder name)
 authors:
